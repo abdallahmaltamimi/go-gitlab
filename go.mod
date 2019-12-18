@@ -1,4 +1,4 @@
-module github.com/razz/go-gitlab
+module github.com/abdallahmaltamimi/go-gitlab
 
 require (
 	github.com/google/go-querystring v1.0.0
